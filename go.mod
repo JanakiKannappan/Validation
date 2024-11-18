@@ -1,3 +1,3 @@
-module github.com/validation
+module github.com/JanakiKannappan/Validation
 
 go 1.23.3
